@@ -1,5 +1,12 @@
 # Ejercicio-03
 
+Deben completar una funcion max_of_four() que tome cuatro numeros como argumentos y devuelva el mayor de ellos.
+
+Tambien deberan escribir una funcion que sume los cuatro numeros que le pasemos como argumentos. Debera llamarse sum_of_four().
+
+Revisen el archivo Ejericio-03.cpp para ver el codigo que debe escribir.
+ 
+> CUIDADO: DEBE definir la funcion sum_of_four() en el archivo Ejericio-03.cpp para que el programa funcione.
 
 > Si desea usar Visual Studio 2019, abra ./project/Ejercicio-01.2019.sln
 
